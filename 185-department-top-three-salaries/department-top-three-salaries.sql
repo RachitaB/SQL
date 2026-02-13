@@ -5,9 +5,7 @@ SELECT
     Salary
 FROM (
     SELECT
-        emp.name as Employee,
-        emp.salary as Salary,
-        dept.name as Department,
+        emp.name as Employee,emp.salary as Salary,dept.name as Department,
         DENSE_RANK() OVER(PARTITION BY dept.name ORDER BY emp.salary desc) as rnk
     FROM Employee emp
     JOIN Department dept ON emp.departmentID = dept.id
