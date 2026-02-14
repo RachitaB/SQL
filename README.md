@@ -2,86 +2,78 @@
 
 # 📊 LeetCode SQL Tracker
 
-**A personal repository to store, organize, and revisit SQL problems practiced on LeetCode.**
+**A personal collection of SQL problems practiced on LeetCode for learning, revision, and interview preparation.**
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
-![Platform](https://img.shields.io/badge/Practice-LeetCode-orange)
+![Platform](https://img.shields.io/badge/Source-LeetCode-orange)
 ![Status](https://img.shields.io/badge/Progress-Active-brightgreen)
-![License](https://img.shields.io/badge/Made%20with-❤️-red)
 
 </div>
 
 ---
 
 ## 📌 Overview
-This project is connected with **LeetCode** and is designed to maintain a structured record of all the **SQL questions I have practiced**.
+This repository maintains a structured record of the **SQL questions I’ve practiced on LeetCode** along with their solutions and approaches.
 
 It helps in:
 - Tracking learning progress 📈  
-- Organizing solutions for quick revision 🧠  
-- Preparing efficiently for interviews 💼  
+- Quick revision before interviews 🧠  
+- Strengthening SQL concepts consistently 💪  
 
 ---
 
 ## ⚙️ Functionality
-
-✨ **Core Features**
-- Stores practiced **LeetCode SQL problems**
-- Maintains **clean, readable SQL solutions**
-- Acts as a **quick revision notebook**
-- Tracks **progress over time**
+- Stores **practiced LeetCode SQL problems**
+- Maintains **clean and readable SQL solutions**
+- Serves as a **personal revision notebook**
+- Helps monitor **continuous improvement**
 
 ---
 
 ## 🎯 Purpose
+The goal of this repository is to:
 
-This repository is built to:
-
-- Strengthen **SQL problem-solving skills**
-- Keep all practiced questions in **one organized place**
-- Enable **fast revision before interviews**
-- Build a **consistent learning habit**
+- Improve **SQL problem-solving skills**
+- Keep all practiced questions in **one place**
+- Enable **fast and effective revision**
+- Support **technical interview preparation**
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tool | Purpose |
-|------|---------|
-| **SQL** | Writing query solutions |
-| **LeetCode** | Source of practice problems |
-| **GitHub** | Storage & version control |
+| Tool | Usage |
+|------|-------|
+| **SQL** | Writing and testing queries |
+| **LeetCode** | Practice platform |
+| **GitHub** | Version control & storage |
 
 ---
 
 ## 🚀 How to Use
-
-1. Browse questions by **difficulty level**.  
-2. Open any file to view the **SQL solution & approach**.  
-3. Use the repo for **revision or interview prep**.  
+1. Open any file to view the **SQL solution**.  
+2. Review the query and logic for **concept clarity**.  
+3. Use the repository for **revision and interview prep**.  
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] Difficulty-wise progress tracking  
-- [ ] Optimized query explanations  
-- [ ] Practice date & attempt history  
-- [ ] Interview-focused SQL notes  
+## 🔮 Future Improvements
+- Add **difficulty tags** to problems  
+- Include **optimized query explanations**  
+- Track **practice dates & learnings**  
+- Add **interview-focused SQL notes**  
 
 ---
 
 ## 👩‍💻 Author
-
 **Rachita Batra**
 
-> _“Consistency in practice leads to mastery.”_
+> _Consistent practice builds strong fundamentals._
 
 ---
 
 <div align="center">
 
-⭐ If you find this useful, consider giving it a star!
+⭐ Feel free to star the repo if you find it useful!
 
 </div>
-
