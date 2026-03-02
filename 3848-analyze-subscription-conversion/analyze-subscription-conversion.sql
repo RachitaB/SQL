@@ -1,8 +1,8 @@
 # Write your MySQL query statement below
 SELECT
     user_id,
-    ROUND(AVG(CASE WHEN activity_type='free_trial' THEN activity_duration ELSE NULL END),2) as trial_avg_duration,
-    ROUND(AVG(CASE WHEN activity_type='paid' THEN activity_duration ELSE NULL END),2) as paid_avg_duration
+    ROUND(AVG(IF(activity_type='free_trial',activity_duration,NULL)),2) as trial_avg_duration,
+    ROUND(AVG(IF(activity_type='paid',activity_duration,NULL)),2) as paid_avg_duration
 FROM UserActivity
 WHERE user_id IN 
 (
