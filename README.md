@@ -45,7 +45,7 @@ The goal of this repository is to:
 | Tool | Usage |
 |------|-------|
 | **SQL** | Writing and testing queries |
-| **Practice Platforms** | LeetCode, HackerRank, StrataScratch, etc. |
+| **Practice Platforms** | LeetCode, Datalemur, StrataScratch, etc. |
 | **GitHub** | Version control & storage |
 
 ---
